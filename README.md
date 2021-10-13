@@ -1,6 +1,7 @@
-
-<!---
-Luiz-Eduardo-de-Lima/Luiz-Eduardo-de-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Economics student and [trying to become] a self-taught programmer.
+## WELCOME TO MY PROFILE ADVENTURER🐱‍👤
+ - I'm a brazilian economics student learning programming by my own.
+<div align="center">
+  <a href="https://github.com/Luiz-Eduardo-de-Lima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-de-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-de-Lima&layout=compact&langs_count=7&theme=dark"/>
+</div>
