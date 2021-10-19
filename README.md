@@ -1,6 +1,6 @@
 ## WELCOME TO MY PROFILE ADVENTURER🐱‍👤
  - I'm a brazilian economics student learning programming by my own.
- - Take a look at my <a href="https://www.linkedin.com/in/luiz-eduardo-lima-a1b556192/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"></img></a>
+ - Take a look at my <a href="https://www.linkedin.com/in/luiz-eduardo-lima-a1b556192/">LinkedIn</a>
 <div align="center">
   <a href="https://github.com/Luiz-Eduardo-de-Lima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-de-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
